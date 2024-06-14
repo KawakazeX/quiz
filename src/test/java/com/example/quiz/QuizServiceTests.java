@@ -140,5 +140,6 @@ public class QuizServiceTests {
             }
         }
         System.out.println(map);
+        System.out.println("=============================================");
     }
 }
